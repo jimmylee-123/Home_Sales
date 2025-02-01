@@ -26,7 +26,7 @@ Data Analytics Bootcamp - Challenge Module 22: In this challenge, you'll use you
  
 ## Source Code Location
 
-* The source code files Are located in the root directory.
+* The source code files are located in the root directory.
 
 ## Acknowledgments
 
